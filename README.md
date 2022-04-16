@@ -13,7 +13,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -155,6 +154,3 @@ Distributed under the GNU GENERAL PUBLIC License. See `LICENSE` for more informa
 [issues-url]: https://github.com/michaelradu/python-cli-chat/issues
 [license-shield]: https://img.shields.io/github/license/michaelradu/python-cli-chat.svg?style=for-the-badge
 [license-url]: https://github.com/michaelradu/python-cli-chat/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
